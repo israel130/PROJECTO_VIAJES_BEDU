@@ -86,7 +86,7 @@ body {
       right: -40px;
       transform: translateY(-50%);
       z-index: 1;
-      background-image: url(../images/heading-img.png);
+      background-image: url(../img/heading-img.png);
       background-repeat: no-repeat;
     }
   }
@@ -96,7 +96,7 @@ body {
 .hero_area {
   height: 136vh;
   position: relative;
-  background-image: url(../images/hero-bg.png);
+  background-image: url(../img/hero-bg.png);
   background-size: cover;
 }
 
@@ -188,7 +188,7 @@ a:focus {
 
 
 .custom_nav-container .nav_search-btn {
-  background-image: url(../images/search-icon.png);
+  background-image: url(../img/search-icon.png);
   background-size: 20px;
   background-repeat: no-repeat;
   background-position: center 5px;
@@ -231,7 +231,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-toggler .navbar-toggler-icon {
-  background-image: url(../images/menu.png);
+  background-image: url(../img/menu.png);
   background-size: 45px;
 }
 
@@ -321,18 +321,18 @@ a:focus {
 
 
     .carousel-control-prev {
-      background-image: url(../images/prev.png);
+      background-image: url(../img/prev.png);
 
       &:hover {
-        background-image: url(../images/prev-blue.png);
+        background-image: url(../img/prev-blue.png);
       }
     }
 
     .carousel-control-next {
-      background-image: url(../images/next.png);
+      background-image: url(../img/next.png);
 
       &:hover {
-        background-image: url(../images/next-blue.png);
+        background-image: url(../img/next-blue.png);
       }
     }
   }
@@ -438,7 +438,7 @@ a:focus {
         }
 
         .btn-1 {
-          background-image: url(../images/link.png);
+          background-image: url(../img/link.png);
         }
       }
 
@@ -582,12 +582,12 @@ a:focus {
     }
 
     .carousel-control-prev {
-      background-image: url(../images/prev-white.png);
+      background-image: url(../img/prev-white.png);
 
     }
 
     .carousel-control-next {
-      background-image: url(../images/next-white.png);
+      background-image: url(../img/next-white.png);
 
     }
   }
@@ -607,7 +607,7 @@ a:focus {
 
 /* contact section */
 .contact_section {
-  background-image: url(../images/contact-bg.png);
+  background-image: url(../img/contact-bg.png);
   background-repeat: no-repeat;
   background-position: left bottom;
   padding-bottom: 250px;
